@@ -11,14 +11,14 @@ text-align: left;
 }
 
 .main {
-  padding: 50px;
+  padding: 80px;
 }
 
 h1 {
   font-family: Lobster;
   color: #c0392b;
   font-size: 400%;
-  line-height: ;
+ 
 }
 
 .topnavigation {
@@ -27,12 +27,12 @@ h1 {
   background: grey;
   text-decoration: none;
   position: fixed;
-  height: 20px;
-  line-height: 10px;
+  height: 8%;
+ 
   text-align: center;
-  margin-right: ;
-  padding: 8px 8px;
-  overflow: hidden;
+ 
+  padding: 20px 0px;
+  overflow: auto;
   width: 95%;
   border-bottom: px dashed white;
 }
