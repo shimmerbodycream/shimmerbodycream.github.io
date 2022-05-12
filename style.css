@@ -24,6 +24,7 @@ p {
   padding: 60px 20px 0px 20px;
   margin: 5px 5px 5px 5px;
   width: 90%;
+  z-index: 0;
  
 }
 
@@ -49,7 +50,7 @@ h1 {
   padding: 5px 0px 0px 5px;
   overflow: auto;
   width: 95%;
-
+ z-index: 2;
 }
 
 .topnavigation a {
