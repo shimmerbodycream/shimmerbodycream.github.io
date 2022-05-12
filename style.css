@@ -23,6 +23,8 @@ p {
 .main {
   padding: 60px 20px 0px 20px;
   margin: 5px 5px 5px 5px;
+  width: 90%;
+ 
 }
 
 h1 {
@@ -44,7 +46,7 @@ h1 {
  
   text-align: center;
  
-  padding: 15px 0px 0px 15px;
+  padding: 5px 0px 0px 5px;
   overflow: auto;
   width: 95%;
 
