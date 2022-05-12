@@ -9,7 +9,7 @@ body {
 }
 p {
  text-align: justify;
- float: right;
+ float: center;
  padding: 0px 0px 0px 0px;
  line-height: 128%;
  letter-spacing: 2px;
@@ -17,6 +17,7 @@ p {
   margin: 5px 5px 5px 5px;
   word-spacing: 1px;
   white-space: wrap;
+  width: 80%
 }
 
 .main {
@@ -28,7 +29,8 @@ h1 {
   font-family: Lobster;
   color: #c0392b;
   font-size: 300%;
-  background-color: #FFC0CB;
+   background-color: pink;
+   width: 95%;
    
 }
 
@@ -79,7 +81,7 @@ a.lotus {
 }
 
 a.lotus:hover {
-  color: 	#FFC0CB;
+  color: pink;
   background-color: grey;
 }
 
@@ -88,7 +90,7 @@ a.search {
 }
 
 a.search:hover {
-  color: 	#FFC0CB;
+  color: pink;
   background-color: grey;
 }
 
