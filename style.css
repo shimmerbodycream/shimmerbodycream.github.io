@@ -5,7 +5,7 @@ body {
   font-family: sans-serif;
   text-align: center;
   line-height: 200%;
-  letter-spacing: 1px;
+  
   
 }
 
@@ -32,10 +32,10 @@ p {
 }
 
 .contact {
-   
-  margin: 5px 5px 5px 5px;
+margin: 5px 5px 5px 5px;
   width: 90%;
   z-index: 0;
+  padding: 10px 20px 0px 20px;
 }
 
 h1 {
