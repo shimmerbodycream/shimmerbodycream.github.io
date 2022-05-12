@@ -28,7 +28,7 @@ h1 {
   font-family: Lobster;
   color: #c0392b;
   font-size: 300%;
-   background-color: pink;
+   background-color: 	#FFC0CB;
    
 }
 
@@ -79,7 +79,7 @@ a.lotus {
 }
 
 a.lotus:hover {
-  color: pink;
+  color: 	#FFC0CB;
   background-color: grey;
 }
 
@@ -88,7 +88,7 @@ a.search {
 }
 
 a.search:hover {
-  color: pink;
+  color: 	#FFC0CB;
   background-color: grey;
 }
 
