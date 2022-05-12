@@ -1,83 +1,57 @@
-body {
-  background: #fff;
-  color: #000;
-  padding: 5px;
-  font-family: sans-serif;
-  text-align: center;
-  line-height: 200%;
-}
-p {
-text-align: left;
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Basic Web Page</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.sandbox.google.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 
-.main {
-  padding: 80px;
-}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster&family=Merriweather:ital@0;1&family=Work+Sans:wght@400;500;800&display=swap" rel="stylesheet"> 
+</head>
+<!--BODY BEGIN--> 
+<body> 
+<!--TOP NAVIGATION BAR--> 
+<!--lotus symbol--> 
+ <div class="topnavigation">
+   <a href="" class="lotus"> 
+      <span      class="material-symbols-outlined">
+spa
+      </span>
+      
 
-h1 {
-  font-family: Lobster;
-  color: #c0392b;
-  font-size: 300%;
-  text-align: center;
- 
-}
 
-.topnavigation {
-  float: left;
-  color: #fff;
-  background: grey;
-  text-decoration: none;
-  position: fixed;
-  height: 8%;
- 
-  text-align: center;
- 
-  padding: 20px 0px;
-  overflow: auto;
-  width: 95%;
-  border-bottom: px dashed white;
-}
+  About</a>
+  <a href="" class="lotus">  <span class="material-symbols-outlined">
+palette
+</span>
 
-.topnavigation a {
-  float: center;
-  color: #f2f2f2;
-  text-align: center;
- 
-  padding: 0px 14px;
-  text-decoration: none;
-  font-size: 18px;
-}
+  
+  Showcase</a>
+  <!--lotus symbol-->      
+    <a href="" class="lotus">
+     <span class="material-symbols-outlined">
+mail
+</span> 
+       
+ Contact Me</a>  
+  
+<!--search symbol  <a href="" class="search"><span class="material-symbols-outlined">
+search
+</span></a>--> 
+</div>
+ <!--end links-->
+ <!--end top nav bar-->
 
-.topnavigation a:hover {
-  background-color: white;
-  color: black;
-  border: none;
-}
+  <div class = "main">
+  <h1>Practice Compendium</h1>
+  <p> &nbsp; &nbsp; &nbsp; This showcase was created with you in mind. Use this compendium to view my creations and inspire your own.</p>
 
-.topnavigation a:active {
-  background-color: grey;
-  color: white;
-}
-
-.symbols {
- 
-}
-
-a.lotus {
-  color: white;
-
-}
-
-a.lotus:hover {
-  color: pink;
-  background-color: grey;
-}
-
-a.search {
-  color: black ;
-}
-
-a.search:hover {
-  color: pink;
-  background-color: grey;
-}
+  <p>  &nbsp; &nbsp; &nbsp; Free code is always included, along with articles to help you along your own journey. </p>
+    
+  <p>&nbsp; &nbsp; &nbsp; Thank you for being apart of this community with me. Let's create!</p>
+</div>
+  <script src="script.js"></script>
+</body>
+</html>
