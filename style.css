@@ -1,25 +1,35 @@
 body {
   background: #fff;
   color: #000;
-  padding: 5px;
+  padding: 0px;
   font-family: sans-serif;
   text-align: center;
   line-height: 200%;
+  
 }
 p {
-text-align: left;
+ text-align: justify;
+ float: right;
+ padding: 0px 0px 0px 0px;
+ line-height: 128%;
+ letter-spacing: 2px;
+  text-indent: 20px;
+  margin: 5px 5px 5px 5px;
+  word-spacing: 1px;
+  white-space: wrap;
 }
 
 .main {
-  padding: 80px;
+  padding: 60px 20px 0px 20px;
+  margin: 5px 5px 5px 5px;
 }
 
 h1 {
   font-family: Lobster;
   color: #c0392b;
   font-size: 300%;
-  text-align: center;
- 
+   background-color: pink;
+   
 }
 
 .topnavigation {
@@ -35,7 +45,7 @@ h1 {
   padding: 20px 0px;
   overflow: auto;
   width: 95%;
-  border-bottom: px dashed white;
+
 }
 
 .topnavigation a {
@@ -80,4 +90,10 @@ a.search {
 a.search:hover {
   color: pink;
   background-color: grey;
+}
+
+p.tagline {
+  font-size: 12px;
+  color: grey;
+  padding: 0px;
 }
