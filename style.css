@@ -101,6 +101,7 @@ a.search:hover {
 
 p.tagline {
   font-size: 12px;
+  align: right;
   color: grey;
   padding: 0px;
 }
