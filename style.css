@@ -9,13 +9,17 @@ body {
   
 }
 
+ul {
+  text-align: left;
+  display: block;
+}
 
 p {
  text-align: justify;
  float: center;
  padding: 0px 0px 0px 0px;
 
- 
+ letter-spacing: .7px;
   text-indent: 20px;
   margin: 5px 5px 5px 5px;
   word-spacing: 0px;
