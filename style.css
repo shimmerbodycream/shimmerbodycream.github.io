@@ -7,6 +7,8 @@ body {
   line-height: 200%;
   
 }
+
+
 p {
  text-align: justify;
  float: center;
@@ -58,10 +60,10 @@ h1 {
   font-family: monospace;
   color: #f2f2f2;
   text-align: center;
-   padding: 5px 0px;
+   padding: 5px 10px;
   text-decoration: none;
-  font-size: 13px;
-  letter-spacing: 1px;
+  font-size: 12px;
+  letter-spacing: 1.5px;
  text-transform: uppercase;
 }
 
