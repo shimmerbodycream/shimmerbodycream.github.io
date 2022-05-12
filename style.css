@@ -40,11 +40,11 @@ h1 {
   background: grey;
   text-decoration: none;
   position: fixed;
-  height: 8%;
+  height: 7%;
  
   text-align: center;
  
-  padding: 20px 0px;
+  padding: 15px 15px;
   overflow: auto;
   width: 95%;
 
@@ -52,12 +52,14 @@ h1 {
 
 .topnavigation a {
   float: center;
+  font-family: monospace;
   color: #f2f2f2;
   text-align: center;
- 
-  padding: 0px 14px;
+   padding: 0px 5px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 13px;
+  letter-spacing: 1px;
+ text-transform: uppercase;
 }
 
 .topnavigation a:hover {
