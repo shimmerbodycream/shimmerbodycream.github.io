@@ -5,6 +5,7 @@ body {
   font-family: sans-serif;
   text-align: center;
   line-height: 200%;
+  letter-spacing: 1px;
   
 }
 
@@ -13,11 +14,11 @@ p {
  text-align: justify;
  float: center;
  padding: 0px 0px 0px 0px;
- line-height: 128%;
- letter-spacing: 2px;
+
+ 
   text-indent: 20px;
   margin: 5px 5px 5px 5px;
-  word-spacing: 1px;
+  word-spacing: 0px;
   white-space: wrap;
   width: 80%
 }
@@ -28,6 +29,13 @@ p {
   width: 90%;
   z-index: 0;
  
+}
+
+.contact {
+   
+  margin: 5px 5px 5px 5px;
+  width: 90%;
+  z-index: 0;
 }
 
 h1 {
