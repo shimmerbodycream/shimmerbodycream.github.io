@@ -18,10 +18,9 @@ p {
  text-align: justify;
  float: center;
  padding: 0px 0px 0px 0px;
-
  letter-spacing: .7px;
   text-indent: 20px;
-  margin: 5px 5px 5px 5px;
+ /* margin: 5px 5px 5px 5px; */
   word-spacing: 0px;
   white-space: pre-wrap;
   max-width: 80%
@@ -36,10 +35,10 @@ p {
 }
 
 .contact {
-margin: 5px 5px 5px 5px;
+  /* margin: 5px 5px 5px 5px; */
   max-width: 90%;
   z-index: 0;
-  padding: 10px 20px 0px 20px;
+  /* padding: 10px 20px 0px 20px; */
 }
 
 h1 {
