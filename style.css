@@ -23,7 +23,7 @@ p {
   text-indent: 20px;
   margin: 5px 5px 5px 5px;
   word-spacing: 0px;
-  white-space: wrap;
+  white-space: pre-wrap;
   max-width: 80%
 }
 
