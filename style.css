@@ -24,7 +24,7 @@ p {
   margin: 5px 5px 5px 5px;
   word-spacing: 0px;
   white-space: wrap;
-  width: 80%
+  max-width: 80%
 }
 
 .main {
