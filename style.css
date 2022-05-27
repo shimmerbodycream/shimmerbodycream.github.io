@@ -24,6 +24,7 @@ p {
   white-space: pre-wrap;
   max-width: 85%;
   margin: 5px 0px 5px 5px;
+  align: center;
 }
 
 .main {
@@ -31,8 +32,19 @@ p {
   margin: 5px 5px 5px 5px;
   width: 90%;
   z-index: 0;
-  text-align: justify;
+  }
+
+.main p {
   align: center;
+  padding: 5px 15px;
+}
+.contact p {
+  align: center;
+  padding: 5px 15px;
+}
+.showcase p {
+  align: center;
+  padding: 5px 15px;
 }
 
 .contact {
