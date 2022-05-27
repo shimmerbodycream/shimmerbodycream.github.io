@@ -3,15 +3,13 @@ body {
   color: #000;
   padding: 0px;
   font-family: sans-serif;
-   line-height: 200%;
-  
-  
-}
+  line-height: 200%;
+  }
 
 ul {
   text-align: left;
   display: block;
-   list-style-type: none;
+  list-style-type: none;
 }
 
 p {
@@ -24,7 +22,6 @@ p {
   white-space: pre-wrap;
   max-width: 85%;
   margin: 5px 0px 5px 5px;
-  
 }
 
 .main {
@@ -133,4 +130,10 @@ p.tagline {
   align: right;
   color: grey;
   padding: 0px;
+}
+
+ul a
+{
+  
+  color: #c0392b;
 }
