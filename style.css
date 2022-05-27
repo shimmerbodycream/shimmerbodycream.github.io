@@ -22,7 +22,7 @@ p {
   margin: 0px 0px 0px 0px;
   word-spacing: 0px;
   white-space: pre-wrap;
-  max-width: 80%
+  max-width: 85%;
   margin: 5px 0px 5px 5px;
   
 }
@@ -61,7 +61,7 @@ h1 {
    color: #c0392b;
    font-size: 300%;
    background-color: pink;
-   max-width: 95%;
+   width: 90%;
    text-align: center;
    padding-bottom: 1px;
    border-bottom: solid 1px;
