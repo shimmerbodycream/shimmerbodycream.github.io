@@ -4,12 +4,14 @@ body {
   padding: 0px;
   font-family: sans-serif;
   line-height: 200%;
+  align: center;
   }
 
 ul {
   text-align: left;
   display: block;
-  list-style-type: none;
+  list-style-type: square;
+  color: pink;
 }
 
 p {
@@ -54,7 +56,7 @@ p {
 
 
 h1 {
-  font-family: Lobster;
+   font-family: Lobster;
    color: #c0392b;
    font-size: 300%;
    background-color: pink;
