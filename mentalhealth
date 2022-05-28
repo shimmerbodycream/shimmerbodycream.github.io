@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mental Health Cheat Sheet</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <h1>Mental Health Cheat Sheet</h1>
+  <p></p>
+
+  <script src="script.js"></script>
+</body>
+</html>
